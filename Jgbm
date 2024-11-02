@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet MX
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet MX
 http://190.0.241.181:8000/play/a075/index.m3u8
