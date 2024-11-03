@@ -74,7 +74,7 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/cc4a2526-cc6b-40c7-879f-0f284
 http://190.0.241.181:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",Canal 5
-http://streamsy.online:2999/happy2024/newyear/1457
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/323173.m3u8
 
 #EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13 Arg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png",Canal 13 Arg
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -144,7 +144,6 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/7b91b367-5c58-49f5-9071-ecd21
 
 #EXTINF:-1 tvg-id="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Español HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 
 #EXTINF:-1 tvg-id="E!" tvg-logo="https://cablego.com.pe/cache/logos/ECH.png",E!
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/02c71e89-9c3d-4dc1-a986-daf1f1e9ced3.m3u
@@ -278,6 +277,33 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/677f20da-8dc7-424e-88fa-2d812
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://cablego.com.pe/cache/logos/MTV.png" ,MTV
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/dd2b16b5-6ddb-4d4c-8762-ee56d156a0c1.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO (exclusivo)" tvg-logo="https://i.postimg.cc/fL8NK9pW/My-project-28-removebg-preview.png" ,MTV LATINO (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38355.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (eclusivo)" tvg-logo="https://i.postimg.cc/FRfn8CH6/My-project-29-removebg-preview.png" ,MTV HITS (eclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38357.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE (exclusivo)" tvg-logo="https://i.postimg.cc/bNdHTSd6/My-project-30-removebg-preview.png" ,MTV LIVE (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38359.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC (exclusivo)" tvg-logo="https://i.postimg.cc/2SQwbR1m/My-project-31-removebg-preview.png" ,MTV CLASSIC (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38361.m3u8
+
+#EXTINF:-1 tvg-id="MTVU" tvg-name="MTV UNIVERSITY (exclusivo)" tvg-logo="https://i.postimg.cc/SsYFpxKk/My-project-32-removebg-preview.png" ,MTV UNIVERSITY (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38362.m3u8
+
+#EXTINF:-1 tvg-id="GMMTV2P" tvg-name="MTV 2 (exclusivo)" tvg-logo="https://i.postimg.cc/dQmvQDBV/My-project-33-removebg-preview.png" ,MTV 2 (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38363.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CLUB MTV (exclusivo)" tvg-logo="https://i.postimg.cc/3rp6Y63j/My-project-34-removebg-preview.png" ,CLUB MTV (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38364.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s (exclusivo)" tvg-logo="https://i.postimg.cc/26xZxr4F/My-project-35-removebg-preview.png" ,MTV 80s (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38366.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW 70s (exclusivo)" tvg-logo="https://i.postimg.cc/qqhCHnPQ/My-project-36-removebg-preview.png" ,NOW 70s (exclusivo)
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/38367.m3u8
+
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
@@ -293,10 +319,10 @@ http://181.188.234.21:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="RPC" tvg-name="RPC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png", RPC
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/ca88210c-9294-4c49-8cf4-b17194749dc6.m3u
 
-#EXTINF:-1 tvg-id="RCN" tvg-name="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",RCN HD
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/RCN_Televisi%C3%B3n_Nueva_Imagen.png",RCN HD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtespañol" tvg-name="RT ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",RT ESPAÑOL
+#EXTINF:-1 tvg-id="rtespañol" tvg-name="RT ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg",RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL 4K
@@ -321,7 +347,7 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/d063421e-01fa-493f-a9ce-42b48
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/1b9a7fe5-2f30-4f58-8533-3dfcb9b325dd.m3u
 
 #EXTINF:-1 tvg-id="Unicanal" tvg-logo="https://i.imgur.com/Bvv557V_d.webp?maxwidth=760&fidelity=grand" ,PY | UNICANAL HD*
-https://daleplay.club:443/live/USUARIO2/50XucB4tdN/d964ea9b-eac5-48b0-a276-d668afe8b722.m3u
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/87408.m3u8
 
 #EXTINF:-1 tvg-id="Gen"tvg-logo="https://television-libre.online/img/genpy.png" ,PY | GEN SD*
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/4479cba7-85cf-4f42-99ed-cdc1e0afbc15.m3u
