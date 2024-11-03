@@ -100,10 +100,10 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/1c325edf-86b4-47e3-8f99-81469
 #EXTINF:-1 tvg-id="caracol" tvg-name="Caracol Col HD" tvg-logo="https://i.postimg.cc/sDvkbfMC/CR.png",Caracol Col HD
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/f4b56c03-75ac-417f-a2cb-71c6f6c3a3d0.m3u
 
-#EXTINF:-1 tvg-id="clarosport" tvg-name="Claro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG", Claro Sport
+#EXTINF:-1 tvg-id="clarosport" tvg-name="Claro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-id="skysport" tvg-name="Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",Sky Sport
+#EXTINF:-1 tvg-id="skysport" tvg-name="Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png",Sky Sport
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" ,Dsport TV HD
