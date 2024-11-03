@@ -272,4 +272,68 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/87c2a723-8bfe-45f1-a088-7748d
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" ,HISTORY CHANNEL
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/c11aec51-0884-455f-823d-6251692f7a85.m3u
 
-#EXTINF:-1 tvg-id="La Liga Movistar" tvg-name="La Liga Movistar" tvg-lo
+#EXTINF:-1 tvg-id="La Liga Movistar" tvg-name="La Liga Movistar" tvg-logo="https://imgfz.com/i/50Wg1oX.png",La Liga Movistar
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/677f20da-8dc7-424e-88fa-2d812e84f81a.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://cablego.com.pe/cache/logos/MTV.png" ,MTV
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/dd2b16b5-6ddb-4d4c-8762-ee56d156a0c1.m3u
+
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,Nat Geo
+http://181.188.234.21:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Nickelodeon_logo.png", Nickelodeon
+http://181.188.234.21:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="RPC" tvg-name="RPC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png", RPC
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/ca88210c-9294-4c49-8cf4-b17194749dc6.m3u
+
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",RCN HD
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtespañol" tvg-name="RT ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL 4K
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/1a60ef83-8c19-47d7-b71b-c38e14b42abd.m3u
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" , TNT 4K
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/1bb92e6e-edb9-415e-ab6f-b45d8608d889.m3u
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" , TNT Novelas 4K
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/0e15ad94-2186-42a2-9704-85311154a648.m3u
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series 4K
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/5de22f62-82bc-475f-b1e8-c4285fcffacd.m3u
+
+#EXTINF:-1 tvg-id="Tyc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" TyC Sports 4K
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/00ab7d6a-970c-4d85-91ff-3dc2ebcb7d65.m3u
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" TNT Sports 4k
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/d063421e-01fa-493f-a9ce-42b48a263034.m3u
+
+#EXTINF:-1 tvg-id="ABC"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" ,PY | ABC HD*
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/1b9a7fe5-2f30-4f58-8533-3dfcb9b325dd.m3u
+
+#EXTINF:-1 tvg-id="Unicanal" tvg-logo="https://i.imgur.com/Bvv557V_d.webp?maxwidth=760&fidelity=grand" ,PY | UNICANAL HD*
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/d964ea9b-eac5-48b0-a276-d668afe8b722.m3u
+
+#EXTINF:-1 tvg-id="Gen"tvg-logo="https://television-libre.online/img/genpy.png" ,PY | GEN SD*
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/4479cba7-85cf-4f42-99ed-cdc1e0afbc15.m3u
+
+#EXTINF:-1 tvg-id="Snt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" ,PY | SNT SD
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/3ee7eb80-4a25-4f20-a86b-077734ad74ac.m3u
+
+#EXTINF:-1 tvg-id="Telefuturo"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" ,PY | TELEFUTURO HD 
+https://daleplay.club:443/live/USUARIO2/50XucB4tdN/f62cf24b-0d22-48f5-b372-2aba31f1f376.m3u
+
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg",TUDN
+http://tvmate.icu:8080/Alan/Alan1234/82241
+
+#EXTINF:-1 tvg-id="tigosport" tvg-name="Tigo Sport Guatemala" tvg-logo="http://imgfz.com/i/w5rxA4R.png",Tigo Sport Guatemala
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
