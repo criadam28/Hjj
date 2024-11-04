@@ -363,3 +363,6 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-id="tigosport" tvg-name="Tigo Sport Guatemala" tvg-logo="http://imgfz.com/i/w5rxA4R.png",Tigo Sport Guatemala
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:-1 tvg-id="Latele" tvg-name="Latele" tvg-logo="http://imgfz.com/i/3MADCXT.png",Latele
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=a5369937c318afb0e036fc7109cb481811b566c46a891f599a0652838222bb0f&exp=1730703515
